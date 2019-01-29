@@ -1,0 +1,10 @@
+C:\Users\brijg\Desktop\CVs\Petroineos\Problem\C#_Project\IntraDayReport\IntraDayReport\obj\Debug\IntraDayReport.csproj.CoreCompileInputs.cache
+C:\Users\brijg\Desktop\CVs\Petroineos\Problem\C#_Project\IntraDayReport\IntraDayReport\bin\Debug\IntraDayReport.exe.config
+C:\Users\brijg\Desktop\CVs\Petroineos\Problem\C#_Project\IntraDayReport\IntraDayReport\bin\Debug\IntraDayReport.exe
+C:\Users\brijg\Desktop\CVs\Petroineos\Problem\C#_Project\IntraDayReport\IntraDayReport\bin\Debug\IntraDayReport.pdb
+C:\Users\brijg\Desktop\CVs\Petroineos\Problem\C#_Project\IntraDayReport\IntraDayReport\obj\Debug\IntraDayReport.csproj.CopyComplete
+C:\Users\brijg\Desktop\CVs\Petroineos\Problem\C#_Project\IntraDayReport\IntraDayReport\obj\Debug\IntraDayReport.exe
+C:\Users\brijg\Desktop\CVs\Petroineos\Problem\C#_Project\IntraDayReport\IntraDayReport\obj\Debug\IntraDayReport.pdb
+C:\Users\brijg\Desktop\CVs\Petroineos\Problem\C#_Project\IntraDayReport\IntraDayReport\obj\Debug\IntraDayReport.ProjectInstaller.resources
+C:\Users\brijg\Desktop\CVs\Petroineos\Problem\C#_Project\IntraDayReport\IntraDayReport\obj\Debug\IntraDayReport.csproj.GenerateResource.cache
+C:\Users\brijg\Desktop\CVs\Petroineos\Problem\C#_Project\IntraDayReport\IntraDayReport\obj\Debug\IntraDayReport.csprojAssemblyReference.cache

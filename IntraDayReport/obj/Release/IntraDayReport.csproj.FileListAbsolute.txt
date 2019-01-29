@@ -1,0 +1,10 @@
+C:\Users\brijg\Desktop\CVs\Petroineos\Problem\C#_Project\IntraDayReport\IntraDayReport\bin\Release\IntraDayReport.exe.config
+C:\Users\brijg\Desktop\CVs\Petroineos\Problem\C#_Project\IntraDayReport\IntraDayReport\bin\Release\IntraDayReport.exe
+C:\Users\brijg\Desktop\CVs\Petroineos\Problem\C#_Project\IntraDayReport\IntraDayReport\bin\Release\IntraDayReport.pdb
+C:\Users\brijg\Desktop\CVs\Petroineos\Problem\C#_Project\IntraDayReport\IntraDayReport\bin\Release\PowerService.dll
+C:\Users\brijg\Desktop\CVs\Petroineos\Problem\C#_Project\IntraDayReport\IntraDayReport\obj\Release\IntraDayReport.csproj.CoreCompileInputs.cache
+C:\Users\brijg\Desktop\CVs\Petroineos\Problem\C#_Project\IntraDayReport\IntraDayReport\obj\Release\IntraDayReport.csproj.CopyComplete
+C:\Users\brijg\Desktop\CVs\Petroineos\Problem\C#_Project\IntraDayReport\IntraDayReport\obj\Release\IntraDayReport.exe
+C:\Users\brijg\Desktop\CVs\Petroineos\Problem\C#_Project\IntraDayReport\IntraDayReport\obj\Release\IntraDayReport.pdb
+C:\Users\brijg\Desktop\CVs\Petroineos\Problem\C#_Project\IntraDayReport\IntraDayReport\obj\Release\IntraDayReport.ProjectInstaller.resources
+C:\Users\brijg\Desktop\CVs\Petroineos\Problem\C#_Project\IntraDayReport\IntraDayReport\obj\Release\IntraDayReport.csproj.GenerateResource.cache
